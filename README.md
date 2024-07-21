@@ -17,3 +17,10 @@ Develop a Python GUI application using PySide2 and Matplotlib that allows users 
 - Matplotlib
 - pytest
 - pytest-qt
+
+# Example Screenshots
+
+## Working Example
+
+## Error Example
+
