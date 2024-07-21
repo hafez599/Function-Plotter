@@ -26,3 +26,4 @@ Develop a Python GUI application using PySide2 and Matplotlib that allows users 
 ### Error Example
 <img src="/screenshots/2.jpg" alt="Not Working Example" width="400"/>
 <img src="/screenshots/3.jpg" alt="Not Working Example" width="400"/>
+<img src="/screenshots/5.jpg" alt="Not Working Example" width="400"/>
