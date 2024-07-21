@@ -21,8 +21,8 @@ Develop a Python GUI application using PySide2 and Matplotlib that allows users 
 ## Example Screenshots
 
 ### Working Example
-![1](https://github.com/user-attachments/assets/547942bb-448c-4bbe-aac2-92b8d39ad4c4)
-![4](https://github.com/user-attachments/assets/f8c253c7-ae93-4b0b-aaf4-f3208353a832)
+<img src="screenshots/1.png" alt="Working Example" width="500"/>
+<img src="screenshots/4.png" alt="Working Example" width="500"/>
 ### Error Example
-![2](https://github.com/user-attachments/assets/f17cbc88-c78d-4f19-93c0-19a5036bab61)
-![3](https://github.com/user-attachments/assets/73e48e7c-cef1-49a7-b77a-3766223eb889)
+<img src="screenshots/2.png" alt="Not Working Example" width="500"/>
+<img src="screenshots/3.png" alt="Not Working Example" width="500"/>
