@@ -30,4 +30,4 @@ Develop a Python GUI application using PySide2 and Matplotlib that allows users 
 <img src="/screenshots/5.jpg" alt="Not Working Example" width="400"/>
 
 ### Tests
-<img src="/screenshots/tests_passes.jpg.jpg" alt="Not Working Example" width="400"/>
+<img src="/screenshots/tests_passes.jpg" alt="Tests passed" width="400"/>
